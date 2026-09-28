@@ -20,7 +20,7 @@ Pracujemy przede wszystkim nad rozwiązaniami dla stron i usług opartych na Wor
 - **Lab Dostępności** — rozwój serwisu i narzędzi związanych z dostępnością cyfrową,
 - **oznaczanie treści AI** — prace nad oznaczaniem treści tworzonych lub wspieranych przez AI,
 - **projekty WordPress** — motywy i rozwiązania dla organizacji oraz instytucji,
-- **narzędzia miejskie** — integracje i automatyzacja publikacji wydarzeń.
+- **wsparcie administracji i organizacji** — rozwiązania wspierające dostępność, komunikację cyfrową i usprawnianie procesów.
 
 ## Więcej
 
